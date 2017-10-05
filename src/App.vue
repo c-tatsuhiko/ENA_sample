@@ -29,7 +29,7 @@ export default {
   padding:0;
 }
 .hoge{
-  background-color: #555;
+  background-color: #0000;
   color: #fff;
   padding: 10px 0;
   text-align: center;
